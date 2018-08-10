@@ -1,4 +1,4 @@
-[submodule "submodule"]
+[submodule "submodule3"]
 	path = submodule
 	url = https://github.com/hoalangoc/submodule.git
 	branch = stable
