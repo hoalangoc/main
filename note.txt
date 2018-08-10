@@ -1,0 +1,6 @@
+check review code
+ng lint
+
+
+[5:53] 
+ng build --prod --aot
